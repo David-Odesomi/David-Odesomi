@@ -1,8 +1,7 @@
 <!-- README: David Odesomi -->
-<!-- Modern, minimalist GitHub Profile aligned with JS Full-Stack Engineering -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Odesomi+David+Ayomide;Full-Stack+JavaScript+Engineer;React+%7C+Node.js+%7C+MySQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Odesomi+David+Ayomide;Full-Stack+JavaScript+Engineer;React+%7C+Next.js+%7C+TypeScript" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -14,24 +13,62 @@
 ---
 
 ### 🌱 About Me  
-- Currently building **full-stack applications** with React, Node.js, and MySQL  
-- Exploring **advanced JavaScript, backend systems, API design, authentication**  
-- Writing on **Medium** as *The Arcane Christian*  
-- Focused on becoming a **well-rounded software engineer**  
+- Building modern web apps with **React, Next.js, TypeScript, and Tailwind CSS**  
+- Exploring **backend logic, API architecture, and authentication flows**  
+- Writing on Medium as **The Arcane Christian**  
+- Growing into a **versatile full-stack JavaScript engineer**  
 - Contact: **davidodesomi@gmail.com**
 
 ---
 
 ### 🛠️ Languages & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,express,mysql,git,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,git,figma" />
 </p>
 
 ---
 
-### 📂 Featured Work  
-Coming soon: A collection of full-stack projects built with  
-**React • Node.js • Express • MySQL • Tailwind CSS**
+### 🚀 Projects  
+
+A glimpse into the work I’ve shaped and the ideas I’m still weaving.
+
+---
+
+#### **Monexa — In Development**  
+A modern expense tracker crafted with clarity and speed in mind.  
+Designed to help users manage their spending with a simple, intuitive flow.  
+**Stack:** Next.js • TypeScript • Tailwind  
+**Status:** Active build
+
+---
+
+#### **Article Summarizer — Published**  
+A lightweight tool that condenses long articles into clean, readable summaries.  
+Built to help readers grasp the heart of a piece within moments.  
+**Stack:** React • JavaScript  
+**Status:** Live  
+**Repo:** https://github.com/david-odesomi/article-summarizer
+
+---
+
+#### **Project One — Title Coming Soon**  
+An exploration of refined UI patterns and smooth client-server transitions.  
+**Stack:** Next.js • TypeScript • Tailwind  
+**Status:** In development
+
+---
+
+#### **Project Two — Title Coming Soon**  
+A fast, API-driven experience testing new architectural ideas and data strategies.  
+**Stack:** React • TypeScript  
+**Status:** In progress
+
+---
+
+#### **Project Three — Title Coming Soon**  
+A minimal experiment focused on performance, state flow, and design purity.  
+**Stack:** Next.js • Tailwind  
+**Status:** Early concept
 
 ---
 
