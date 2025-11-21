@@ -51,24 +51,24 @@ Built to help readers grasp the heart of a piece within moments.
 
 ---
 
-#### **Project One — Title Coming Soon**  
-An exploration of refined UI patterns and smooth client-server transitions.  
-**Stack:** Next.js • TypeScript • Tailwind  
+#### **Overkill Rock Paper Scissors — Published and being polished**  
+An overkill version of the lovable game "rock paper scissors" with unqiue style and animations.
+**Stack:** Javascript
 **Status:** In development
 
 ---
 
 #### **Project Two — Title Coming Soon**  
-A fast, API-driven experience testing new architectural ideas and data strategies.  
-**Stack:** React • TypeScript  
-**Status:** In progress
+-
+**Stack:** -
+**Status:** -
 
 ---
 
 #### **Project Three — Title Coming Soon**  
-A minimal experiment focused on performance, state flow, and design purity.  
-**Stack:** Next.js • Tailwind  
-**Status:** Early concept
+- 
+**Stack:** -
+**Status:** -
 
 ---
 
