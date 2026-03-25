@@ -1,94 +1,50 @@
-<!-- README: David Odesomi -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Odesomi+David+Ayomide;Full-Stack+JavaScript+Engineer;React+%7C+Next.js+%7C+TypeScript" alt="Typing SVG" />
-</h1>
-
+<!-- David Odesomi — GitHub Profile README -->
+<h1 align="center">David Odesomi</h1>
 <p align="center">
-  <a href="https://github.com/david-odesomi">
-    <img src="https://komarev.com/ghpvc/?username=david-odesomi&label=Profile+Views&color=0E75B6&style=flat-square" alt="Profile Views" />
-  </a>
+  Full-Stack Engineer  ·  Lagos, Nigeria  ·  <a href="mailto:davidodesomi@gmail.com">davidodesomi@gmail.com</a>
 </p>
-
----
-
-### 🌱 About Me  
-- Building modern web apps with **React, Next.js, TypeScript, and Tailwind CSS**  
-- Exploring **backend logic, API architecture, and authentication flows**  
-- Writing on Medium as **The Arcane Christian**  
-- Growing into a **versatile full-stack JavaScript engineer**  
-- Contact: **davidodesomi@gmail.com**
-
----
-
-### 🛠️ Languages & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,git,figma,docker" />
+  <img src="https://komarev.com/ghpvc/?username=david-odesomi&label=views&color=0E75B6&style=flat-square" alt="Profile Views" />
 </p>
-
----
-
-### 🚀 Projects  
-
-A glimpse into the work I’ve shaped and the ideas I’m still weaving.
-
----
-
-#### **Monexa — In Development**  
-A modern expense tracker crafted with clarity and speed in mind.  
-Designed to help users manage their spending with a simple, intuitive flow.  
-**Stack:** Next.js • TypeScript • Tailwind  
-**Status:** Active build
-
----
-
-#### **Article Summarizer — Published**  
+***About
+I build web apps focused on the Nigerian market — fintech tools, tax utilities, and productivity software.  
+Currently expanding into Python, AWS, and backend infrastructure.
+Working on Monexa — a modern expense tracker  
+Working on Tax Naija — a Nigerian PAYE tax calculator  
+Writing occasionally as The Arcane Christian on Medium  
+Contact: davidodesomi@gmail.com
+***Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,tailwind,nodejs,python,aws,docker,git" />
+</p>
+***Projects
+Monexa
+A personal finance and expense tracking app built for clarity and speed.  
+Stack: Next.js · TypeScript · Tailwind  
+Status: Active development  
+Live: monexa.vercel.app  
+Repo: github.com/David-Odesomi/monexa
+***Tax Naija
+A Nigerian tax utility that calculates PAYE, income brackets, and deductions.  
+Stack: Next.js · TypeScript · Tailwind  
+Status: Active development  
+Live: tax-naija-henna.vercel.app  
+Repo: github.com/David-Odesomi/tax-naija
+***Article Summarizer
 A lightweight tool that condenses long articles into clean, readable summaries.  
-Built to help readers grasp the heart of a piece within moments.  
-**Stack:** React • JavaScript  
-**Status:** Live  
-**Repo:** https://github.com/david-odesomi/article-summarizer
-
----
-
-#### **Overkill Rock Paper Scissors — Published and being polished**  
-An overkill version of the lovable game "rock paper scissors" with unqiue style and animations.
-**Stack:** Javascript
-**Status:** In development
-
----
-
-#### **Project Two — Title Coming Soon**  
--
-**Stack:** -
-**Status:** -
-
----
-
-#### **Project Three — Title Coming Soon**  
-- 
-**Stack:** -
-**Status:** -
-
----
-
-### 📊 GitHub Insights  
+Stack: Node.js · Express · JavaScript  
+Status: Live  
+Live: article-summarizer-tan-two.vercel.app  
+Repo: github.com/David-Odesomi/article-summarizer
+***GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-odesomi&layout=compact&theme=transparent&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api?username=david-odesomi&show_icons=true&theme=transparent&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-odesomi&layout=compact&theme=transparent&hide_border=true" height="150" />
+   
+  <img src="https://github-readme-stats.vercel.app/api?username=david-odesomi&show_icons=true&theme=transparent&hide_border=true&hide=contribs" height="150" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=david-odesomi&theme=transparent&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=david-odesomi&theme=transparent&hide_border=true" height="150" />
 </p>
-
----
-
-### ✨ Quote I Live By  
-> “Learning is sought with intention, sharpened with persistence, and perfected in practice.”
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/david-odesomi/david-odesomi/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+***<p align="center">
+  <img src="https://raw.githubusercontent.com/david-odesomi/david-odesomi/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </p>
