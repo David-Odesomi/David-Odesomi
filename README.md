@@ -23,7 +23,7 @@
 
 ### 🛠️ Languages & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,git,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,git,figma,docker" />
 </p>
 
 ---
