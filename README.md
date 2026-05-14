@@ -20,7 +20,7 @@
 🛠️ **Stack**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,python,linux,bash,git,js,ts" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,python,linux,bash,git,js,ts,next" />
 </p>
 
 ⸻
