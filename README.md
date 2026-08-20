@@ -18,7 +18,7 @@
 ### `// stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,python,linux,bash,ansible,githubactions,git,js,ts" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,python,linux,bash,ansible,githubactions,git,js,ts" />
 </p>
 
 ---
