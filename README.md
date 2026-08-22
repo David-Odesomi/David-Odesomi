@@ -45,7 +45,7 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
       </p>
-      <a href="https://github.com/David-Odesomi/dockhand">→ view repo</a>
+      <a href="https://github.com/David-Odesomi/tf_ansible_dockhost">→ view repo</a>
     </td>
     <td width="50%" valign="top">
       <h3>🏗️ State-Managed VPC</h3>
